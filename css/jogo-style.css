@@ -1,0 +1,26 @@
+div{
+    text-align: center;
+}
+.interface{
+    text-align: center;
+    background-image: url(/img/3S7UO1lGqJRmGKNAmNgUOutvL-EZMOC28go8Cl4klAY.jpg);
+}
+
+.patos{
+    border: 1px solid;
+    font-size: 5rem;
+    border-radius: 7px;
+    margin: 0 1rem 1rem;
+}
+
+.contadores{
+    float: left;
+}
+
+#cenario{
+    float: left;
+    width: 80%;
+    height: 50rem;
+    background: url(/img/cenario2.png);
+}
+
